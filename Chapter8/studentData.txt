@@ -1,0 +1,8 @@
+Student :
+Student Name ='Abu'
+ID Number =325266
+Faculty Name ='Unikl'
+Student :
+Student Name ='Adgham'
+ID Number =526262
+Faculty Name ='MSU'

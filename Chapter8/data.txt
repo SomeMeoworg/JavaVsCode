@@ -1,0 +1,3 @@
+Ali Bidin,60,A
+Abu Bakar,50,C
+Siti Hajah,65,B

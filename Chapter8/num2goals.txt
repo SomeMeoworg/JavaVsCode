@@ -1,0 +1,4 @@
+Abu		2	5
+Adam	3	4
+Ali		5	9
+Minah	3	1	

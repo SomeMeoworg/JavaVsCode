@@ -1,0 +1,4 @@
+1.Ibu negeri Perak
+A-Ipoh:B-KL:C-Penang
+2.Selepas hari Rabu
+A-Isnin:B-Khamis:C-Ahad

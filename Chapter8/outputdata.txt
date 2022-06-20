@@ -1,0 +1,4 @@
+Name : Ali BidinScore : 60.0Grade : A
+Name : Abu BakarScore : 50.0Grade : C
+Name : Siti HajahScore : 65.0Grade : B
+Total score : 175.0
